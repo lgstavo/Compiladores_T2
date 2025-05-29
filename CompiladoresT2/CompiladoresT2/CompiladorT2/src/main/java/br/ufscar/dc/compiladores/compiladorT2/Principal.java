@@ -1,9 +1,5 @@
 package br.ufscar.dc.compiladores.compiladorT2;
 
-/**
- *
- * @author jeanf
- */
 import br.ufscar.dc.compiladores.compiladorT2.AlgumaLexer;
 import br.ufscar.dc.compiladores.compiladorT2.AlgumaParser;
 import java.io.*;
