@@ -1,12 +1,5 @@
-/*
- * Arquivo modificado para ocultar origem original.
- */
 package br.ufscar.dc.compiladores.compiladorT2;
 
-/**
- *
- * @author jeanf
- */
 import org.antlr.v4.runtime.BaseErrorListener;
 import org.antlr.v4.runtime.Recognizer;
 import org.antlr.v4.runtime.Token;
